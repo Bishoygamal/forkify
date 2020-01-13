@@ -1,0 +1,8 @@
+npm init  -> to install package.json
+npm install webpack --save-dev
+npm install jquery --save
+npm uninstall jquery --save
+npm install live-server --global
+live-server
+npm install webpack-cli --save-dev
+npm install webpack-dev-server --save-dev
